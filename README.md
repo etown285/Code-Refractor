@@ -6,28 +6,29 @@ The way that the previous Horiseon page was built did not follow the Americans w
 
 ### Change Overview
 
-* Made titles more clear and concise with what content available on the page.  
+* Made titles more clear and concise with what content is available on the page.  
 * Changed the div class "header" to the semantic header element to follow page structure.
 * Removed div and added the nav element for the navigation bar. 
 * Removed div and class and added a figure to follow page structure. 
-* Fixed image link for the background image. 
-* Replaced div and added section element with article elements for each service description.
-* Created alt and title tags for all images on the page that were descriptive. 
-* Replaced 
+* Fixed image link for the background image in the figure section. 
+* Replaced div and added section element with article elements for each description. 
+* Replaced div and added aside article elements for service descriptions. 
 * Corrected all element tags to match the correct style changes. 
+* Created alt and title tags for all images with proper descriptions.
+* Consolidated all CSS tags that had the same properties.
+* Added appropriate comments to changes in CSS.
 
-* Fixed image in the figure section. 
-* Consolidated all similar sections to make it easier for future editing.
-* Added appropriate comments to changes. 
-
-
-## Usage md 
-![Refactor_Website](assets/images/Horiseon_SEO_Screenshot.jpg)
+## Usage  
+![](assets/images/Horiseon_SEO_Screenshot.jpg)
 
 ## Links 
 
 * Application URL: (https://etown285.github.io/Code-Refractor/)
 * GitHub Repository URL:  (https://github.com/etown285/Code-Refractor)
+
+## Credits
+
+* Takuya Matsumoto: [https://github.com/TakuyaMats]
 
 ## License
 
