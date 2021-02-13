@@ -6,7 +6,7 @@ The way that the previous Horiseon page was built did not follow the Americans w
 
 ### Change Overview
 
-* Made titles more clear and concise with what content is available on the page.  
+* Made titles more clear and concise with what content that is available on the page.  
 * Changed the div class "header" to the semantic header element to follow page structure.
 * Removed div and added the nav element for the navigation bar. 
 * Removed div and class and added a figure to follow page structure. 
@@ -17,6 +17,7 @@ The way that the previous Horiseon page was built did not follow the Americans w
 * Created alt and title tags for all images with proper descriptions.
 * Consolidated all CSS tags that had the same properties.
 * Added appropriate comments to changes in CSS.
+* Added appropriate comments to HTML changes.
 
 ## Usage  
 
