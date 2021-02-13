@@ -19,7 +19,8 @@ The way that the previous Horiseon page was built did not follow the Americans w
 * Added appropriate comments to changes in CSS.
 
 ## Usage  
-![](assets/images/Horiseon_SEO_Screenshot.jpg)
+
+![Screenshot](assets/images/Horiseon_SEO_Screenshot.jpg)
 
 ## Links 
 
