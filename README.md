@@ -20,7 +20,7 @@ The way that the previous Horiseon page was built did not follow the Americans w
 
 ## Usage  
 
-![Screenshot](assets/images/Horiseon_SEO_Screenshot.jpg)
+![Screenshot](https://github.com/etown285/Code-Refractor/blob/main/assets/images/Horiseon%20SEO%20Screenshot.jpg)
 
 ## Links 
 
